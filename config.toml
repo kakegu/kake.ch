@@ -59,11 +59,6 @@ title = "GitHub"
 url = "https://github.com/kakegu"
 
 [[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/kakegu"
-
-[[params.socialIcons]]
 icon = "fab fa-twitter"
 title = "Twitter"
 url = "https://www.twitter.com/kakeloveu"
